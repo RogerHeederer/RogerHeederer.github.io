@@ -6,8 +6,10 @@ tag :
  - Knowledge Distillation
 ---
 
-## Knowledge Distillation ##
-안녕하세요. 이번 포스팅에서는 머신 러닝 분야에서 활용되는 Knowledge Distillation에 대해 알아보고자 합니다. 이 용어는 처음 _Distilling the Knowledge in a Neural Network_ 논문에서 등장했는데요, 지식을 증류한다? 무슨 의미인지 살펴보겠습니다.
+## 지식 증류 ##
+
+
+이번 포스팅에서는 머신 러닝 분야에서 활용되는 Knowledge Distillation에 대해 알아보고자 합니다. 이 용어는 처음 _Distilling the Knowledge in a Neural Network_ 논문에서 등장했는데요, 지식을 증류한다? 무슨 의미인지 살펴보겠습니다.
 
 Distillation(증류)는 불순물이 섞여 있는 혼합물에서 원하는 특정 성분을 분리시키는 방법을 뜻합니다. 본 논문에서 말하는 Knowledge Distillation의 개념은 "이미 잘 학습된 Teacher network의 Knowledge(parameters)에서, 필요하지 않은 Knowledge는 제외하고, <Span style="color:red">성능 향상에 도움이 되는 Knowledge만을 추출(증류)해내어 상대적으로 작은 Student model 학습에 활용하는 것</span>"을 뜻합니다.
 

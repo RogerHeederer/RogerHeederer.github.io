@@ -1,15 +1,15 @@
 ---
-title : "Colab with Github"
+title : "Import image from Colab to Github"
 tag : 
  - Colab
  - Github
- - Image share
+ - Image import
  - ipynb
 ---
 
-## Colab Image Setting ##
+## Colab Image Upload Setting ##
 
-안녕하세요. 이번 포스팅에서는 Colab에서 이미지 세팅하는 방법에 대해 포스팅하고자 합니다. 저는 머신러닝 코드 리뷰를 주로 구글에서 제공하는 Colab에서 진행하는데요, Colab을 통해 작성한 ipynb 파일을 바로 깃허브로 commit합니다.
+이번 포스팅에서는 Colab에서 이미지 세팅하는 방법에 대해 포스팅하고자 합니다. 저는 머신러닝 코드 리뷰를 주로 구글에서 제공하는 Colab에서 진행하는데요, Colab을 통해 작성한 ipynb 파일을 바로 깃허브로 commit합니다.
 
 근데 여기서 문제는 Colab에서 이미지 첨부를 하였는데, 해당 이미지가 github에서는 보이지 않는 문제가 있습니다. 우선 제가 처음에 Colab에서 이미지를 넣은 방법부터 살펴보겠습니다.<br/>
 
