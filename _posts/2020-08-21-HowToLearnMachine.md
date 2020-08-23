@@ -2,13 +2,13 @@
 title : "How to make the machine learned?"
 tag : 
  - Machine Learning
- - Algoriithm
+ - Algorithm
  - Regression
  - Classification
  - Deep Learning
 ---
 
-## Machine Learning? Deep Learning? ##
+## Machine Learning? Deep Learning? Difference?##
 
 
 자, 이제 머신러닝의 개념이 잡혔으면 다음과 같은 궁금증이 생길 수 있습니다. 그럼 기계에게 어떤 알고리즘, 어떤 데이터로, 어떻게 학습시키냐?<br/>
@@ -31,6 +31,8 @@ tag :
 추후 포스팅에서 머신러닝에 사용되는 알고리즘들을 차례로 소개할 예정입니다.
 
 참고로, 머신러닝과 딥러닝. 각 용어에 대해서 헷갈려하는 분들이 많습니다.
+
+머신러닝과 딥러닝의 차이가 무엇인가요?
 
 결론부터 얘기하자면,
 
