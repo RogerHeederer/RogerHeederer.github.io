@@ -1,5 +1,5 @@
 ---
-title : "How to make learn machine?"
+title : "How to make the machine learned?"
 tag : 
  - Machine Learning
  - Algoriithm
@@ -8,7 +8,7 @@ tag :
  - Deep Learning
 ---
 
-## How to make machine learned? ##
+## Machine Learning? Deep Learning? ##
 
 
 자, 이제 머신러닝의 개념이 잡혔으면 다음과 같은 궁금증이 생길 수 있습니다. 그럼 기계에게 어떤 알고리즘, 어떤 데이터로, 어떻게 학습시키냐?<br/>
