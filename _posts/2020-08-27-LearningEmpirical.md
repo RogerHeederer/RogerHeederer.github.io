@@ -1,7 +1,7 @@
 ---
-title : "Emperical Demonstration of Learning Process"
+title : "Empirical Demonstration of Learning Process"
 tag : 
- - Emperical Demonstration
+ - Empirical Demonstration
  - Process of learning
  - Machine Learning
  - Weight
