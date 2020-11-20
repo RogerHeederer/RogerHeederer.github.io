@@ -1,5 +1,5 @@
 ---
-title : "파이썬 파일, 모듈을 다시 불러오기(Reload) in Colab"
+title : "구글 코랩에서 아나콘다 패키지 사용하기"
 tag : 
  - Colab
  - Anaconda
